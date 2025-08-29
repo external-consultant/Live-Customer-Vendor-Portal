@@ -1,0 +1,121 @@
+{
+  "id": "98e3facf-495c-40de-8734-ae7e3df16321",
+  "name": "Business Portal Connector",
+  "publisher": "Intech Systems Pvt Ltd.",
+  "version": "1.0.0.9",
+  "brief": "This online tool allows you to monitor and manage your services via a secure, single point of access. Empower your customers and vendors by providing them complete access to up-to-date and accurate information.",
+  "description": "The added convenience at all sides � you, your customers and your vendors - results into an improved relationship, a sure win-win for both your business and your customers & vendors. You can rely on the portal whenever you need it. Also, all the data is drawn directly from your Microsoft Dynamics ERP software. This means the information is updated automatically and regularly. This gives you a real-time overview of your services. All the information is exclusive to a specific customer or vendor, keeping all personal and business data confidential. You stay in control: you nominate an administrator who holds super-user control and who is authorized to add, modify and delete user accounts.With the facility of sending reminders and notifications about payments and other important actions, never miss the deadlines of payments and receipts. Overdue amount, pending invoices and all such information are there on the screen to make your work easier.Intech Business Portal gives your customers and vendors a direct access, 24x7, from any internet connection. It saves your time and extra efforts too, enabling you to manage your services efficiently online.",
+  "privacyStatement": "https://intech-systems.com/privacy-policy/",
+  "EULA": "https://intech-systems.com/wp-content/uploads/2022/01/Business-portal-connector-EULA.pdf",
+  "help": "https://intech-systems.com/wp-content/uploads/2022/01/Bc_usermanual.pdf",
+  "url": "https://www.intech-systems.com",
+  "logo": "./img/9.png",
+  "applicationInsightsConnectionString": "InstrumentationKey=cd0ebe44-e1b7-49bf-97f1-cb8346b1b437",
+  "dependencies": [
+    {
+      "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+      "publisher": "Microsoft",
+      "name": "India Gate Entry",
+      "version": "20.0.0.0"
+    },
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "publisher": "Microsoft",
+      "name": "India GST",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "publisher": "Microsoft",
+      "name": "India Reports",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "publisher": "Microsoft",
+      "name": "India Tax Base",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+      "publisher": "Microsoft",
+      "name": "India TCS",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "publisher": "Microsoft",
+      "name": "India TDS",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "07729019-da51-4639-a987-3db38ccc62c7",
+      "publisher": "Microsoft",
+      "name": "India Charge Group",
+      "version": "21.0.0.0"
+    }
+    ,
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "publisher": "Microsoft",
+      "name": "India Voucher Interface",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "7106d701-c601-4a5f-97c2-b8b323ae2c18",
+      "publisher": "Microsoft",
+      "name": "QR Generator",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "publisher": "Microsoft",
+      "name": "Tax Engine",
+      "version": "20.0.0.0"
+    }
+    ,
+    {
+      "id": "1150dd8d-51da-485a-bd4a-1ee98d78c21a",
+      "publisher": "Microsoft",
+      "name": "Fixed Asset Depreciation for India",
+      "version": "20.0.0.0"
+    }    
+    ,
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "18.0.0.0"
+    }  ,
+    {
+      "id": "213a67b3-a931-4d61-8ed4-8f5ccae345c3",
+      "name": "Kemipex Base App",
+      "publisher": "Kemipex FZE",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "features": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+    "from": 81230,
+    "to": 81400
+    } 
+  ],
+  "contextSensitiveHelpUrl": "https://BusinesscentralIN.com/help/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
